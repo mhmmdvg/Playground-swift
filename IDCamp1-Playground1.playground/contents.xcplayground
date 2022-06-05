@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Print Konstanta dan Variabel'/>
+        <page name='Var and Let'/>
+        <page name='Semicolon'/>
+        <page name='Integer'/>
+        <page name='Floating-Point Number'/>
+        <page name='Type Safety and Type Inference'/>
+        <page name='Numeric Literals'/>
+        <page name='Numeric Type Conversion'/>
+        <page name='Type Aliases'/>
+        <page name='BooleAN'/>
+        <page name='Tuple'/>
+        <page name='Optional'/>
+        <page name='Error Handling'/>
+    </pages>
+</playground>
